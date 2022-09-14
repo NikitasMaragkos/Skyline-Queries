@@ -7,4 +7,4 @@ in the following image the skyline points are a, b, e, h and o.
 
 ![Skyline](https://user-images.githubusercontent.com/49310269/190111919-54772eff-b5e5-4f35-a2d0-e1646126ecd5.PNG)
 
-The algorithm runs in O(nlogn) time, since we use a sorting algorithm of O(nlogn) time complexity. After having all points sorted the remaining process runs at O(n).
+The algorithm runs in O(nlogn) time, since we use a sorting algorithm of O(nlogn) time complexity. After having all points sorted, the remaining process runs at O(n).
